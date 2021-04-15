@@ -15,5 +15,5 @@ Currently I work as a Senior Software Developer with Elixir + NodeJs.
 
 ##  Get in touch
 
-- Web [www.andrewsaguiar.com](https://www.andrewsaguiar.com/)
-- Linkedin [br.linkedin.com/in/andrewaguiar](https://br.linkedin.com/in/andrewaguiar)
+- Web [https://www.andrewsaguiar.com](https://www.andrewsaguiar.com/)
+- Linkedin [https://br.linkedin.com/in/andrewaguiar](https://br.linkedin.com/in/andrewaguiar)
