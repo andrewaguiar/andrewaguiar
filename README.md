@@ -20,3 +20,5 @@ Currently I work as a Senior Software Developer with Elixir + NodeJs.
 
 - Web [https://www.andrewsaguiar.com](https://www.andrewsaguiar.com/)
 - Linkedin [https://br.linkedin.com/in/andrewaguiar](https://br.linkedin.com/in/andrewaguiar)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewaguiar&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=andrewaguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
